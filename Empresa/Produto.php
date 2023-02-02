@@ -1,0 +1,6 @@
+<?php
+namespace Sistema\Empresa;
+
+
+
+?>
